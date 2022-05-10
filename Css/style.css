@@ -517,7 +517,7 @@ footer.footer .home span :hover {
 
 @media only screen and (max-width:520px) {
     main .blog {
-        height: 130vh;
+        height: 100vh;
     }
 
     .site-content .post-content .post-image .post-info {
