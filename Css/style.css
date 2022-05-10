@@ -557,6 +557,12 @@ footer.footer .home span :hover {
         min-height: 9vh !important;
         overflow: hidden !important;
 
-    }
+}
+.nav .nav-items .nav-link {
+    padding: 1rem 1rem !important;
+    font-size: 1rem !important;
+}
+
+
 
 }
