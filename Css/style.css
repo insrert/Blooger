@@ -142,7 +142,7 @@ span {
     color: var(--white);
 }
 
-.nav .nav-items .active {
+.nav .nav-items .activ {
     background-color: var(--midnight);
     padding: 1.6rem 1rem;
     font-size: 1.1rem;
